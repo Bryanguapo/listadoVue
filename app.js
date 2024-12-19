@@ -44,7 +44,7 @@ createApp({
         { id: 6, comida: "Ramencito",  country: "Japon", continent: "Asia", imagen: "img/comida6.webp" },
         { id: 7, comida: "Ensalada",  country: "Argentina", continent: "América", imagen: "img/comida7.webp" },
         { id: 8, comida: "Panqueques",  country: "Mexico", continent: "America", imagen: "img/comida8.webp" },
-        { id: 9, comida: "Aceitunas", country: "Espana", continent: "Europa", imagen: "img/comida9.webp" },
+        { id: 9, comida: "Aceitunas", country: "España", continent: "Europa", imagen: "img/comida9.webp" },
         { id: 10, comida: "Pastel",  country: "Turquía", continent: "Europa", imagen: "img/comida10.webp" },
         { id: 11, comida: "Pizza",  country: "Italia", continent: "Europa", imagen: "img/comida11.webp" },
         { id: 12, comida: "Bizcocho y cafe", country: "España", continent: "Europa", imagen: "img/comida12.webp" },
